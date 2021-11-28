@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-jsx-enforce-test-id",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An optional eslint rule to enforce using testId with event handlers",
     "author": "xblurx",
     "license": "MIT",
