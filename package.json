@@ -30,6 +30,7 @@
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-typescript": "^7.16.0",
     "@babel/types": "7.16.0",
+    "@types/compression-webpack-plugin": "^9.0.0",
     "@types/eslint": "7.28.1",
     "@types/estree": "0.0.50",
     "@types/node": "16.11.9",
